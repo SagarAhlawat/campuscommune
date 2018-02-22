@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1091884630646",
+    "firebase_url": "https://campuscommune-824e9.firebaseio.com",
+    "project_id": "campuscommune-824e9",
+    "storage_bucket": "campuscommune-824e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091884630646:android:8ac54f60c6c59f91",
+        "android_client_info": {
+          "package_name": "com.example.user.campuscommune"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091884630646-6paca9kk18k6fe5nfoh6e4fqjui1rteg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpOeFS6eKk7ilOVP_EecJF1dlEZ-V9ogk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
